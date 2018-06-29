@@ -5,3 +5,5 @@ $name="String"
 echo $name;
 echo "Its nice";
 echo "Branch new_f";
+
+echo "MASTER LINE";
